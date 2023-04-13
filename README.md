@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Joaquin Piven</h1>
+<h1 align="center">👋 Hi, I'm Joaquin Piven!</h1>
 <h3 align="center">An enthusiastic frontend developer from Uruguay</h3>
 
 - 🔭 I’m currently working as **a freelancer for various projects to keep boosting my skills**

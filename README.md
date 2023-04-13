@@ -1,13 +1,13 @@
 <h1 align="center">👋 Hi, I'm Joaquin Piven</h1>
 <h3 align="center">An enthusiastic frontend developer from Uruguay</h3>
 
-- 🔭 I’m currently working as **a freelancer for various projects to keep boosting my skills**
+- 🔭 I’m currently working **as a freelancer for various projects to keep boosting my skills**
 
 - 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects will be available soon at [joaquinpiven.dev](joaquinpiven.dev)
 
-- 📫 How to reach me **joaquin@piven.com**
+- 📫 How to reach me **joaquin@piven.uy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
